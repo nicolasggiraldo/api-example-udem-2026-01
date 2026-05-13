@@ -1,0 +1,5 @@
+VERSION = '1.0.0'
+INPUT_FILE = 'model.pickle'
+HOST = "0.0.0.0"
+PORT = 8000
+ROUND_DECIMALS = 0
